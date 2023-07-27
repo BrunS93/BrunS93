@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/opOF2f2.jpg"/>
+<img align="center" width="100%" src="https://i.imgur.com/opOF2f2.jpg"/>
 <h1 align="center">Hi 👋, I'm Bruno Silva</h1>
 <h3 align="center">Backend developer specialized in Java and .Net.</h3>
 
